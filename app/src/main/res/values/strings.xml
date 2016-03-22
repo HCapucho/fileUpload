@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">File Upload</string>
+    <string name="lbl_selecione_uma_imagem">Selecione uma imagem</string>
+</resources>
